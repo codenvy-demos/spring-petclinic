@@ -1,6 +1,8 @@
 # Spring PetClinic Sample Application
 
 Adding a comment.
+
+Adding a comment.
 Adding a comment.
 
 ## What does it look like?
