@@ -1,3 +1,4 @@
+### Release Date: Oct. 20th, 2014
 # Spring PetClinic Sample Application
 
 Insert a comment.
