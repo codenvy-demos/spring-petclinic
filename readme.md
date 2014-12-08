@@ -1,4 +1,5 @@
 # Spring PetClinic Sample Application
+Today's date:
 
 
 ## What does it look like?
