@@ -1,5 +1,5 @@
 # Spring PetClinic Sample Application
-Today's date:
+Today's date: December 15th
 
 
 ## What does it look like?
