@@ -1,4 +1,4 @@
-[![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](http://nightly.codenvy-stg.com/f?id=mzwmfalf8ibjjux2)
+[![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](http://nightly.codenvy-stg.com/f?id=2ui5e6vm7ttnxo9a)
 
 
 ### Release Date: November 13th, 2014
