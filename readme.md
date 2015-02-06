@@ -1,5 +1,13 @@
 [![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](https://codenvy.com/f?id=euyeok50b3104deb)
 
+### Available contribution workflows
+
+Factory | Name | Description
+--- | --- | ---
+[![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](https://codenvy.com/f?id=02fq1vamaj0yftbj) | demo01 | demo01
+[![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](https://codenvy.com/f?id=pnrf2vton1hn8b8c) | demo02 | MySQL
+
+
 
 ### Release Date: November 13th, 2014
 # Spring PetClinic Sample Application
