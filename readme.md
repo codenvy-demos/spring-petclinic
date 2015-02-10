@@ -1,12 +1,12 @@
-[![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](https://codenvy.com/f?id=euyeok50b3104deb)
+[![Contribute](https://rawgit.com/slemeur/4a900bb68300a2643679/raw/1ad2c6d784c92fc21886c765bc6315a1f2ee690c/codenvy-contribute.svg)](https://codenvy.com/f?id=euyeok50b3104deb)
 
 ### Available contribution workflows
 
 Factory | Name | Description
 --- | --- | ---
-[![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](https://codenvy.com/f?id=02fq1vamaj0yftbj) | demo01 | demo01
-[![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](https://codenvy.com/f?id=pnrf2vton1hn8b8c) | demo02 | MySQL
-[![Contribute](http://rawgit.com/sunix/99c0da57ec96147bfd73/raw/e3eb038a56f7b9ed635eb06f551ccb225bbf50a9/codenvy-contribute-2.svg)](https://codenvy.com/f?id=yo1keesrbnwzeuuc) | GuidedTour | Use of the guided tour
+[![Contribute](https://rawgit.com/slemeur/4a900bb68300a2643679/raw/1ad2c6d784c92fc21886c765bc6315a1f2ee690c/codenvy-contribute.svg)](https://codenvy.com/f?id=02fq1vamaj0yftbj) | demo01 | demo01
+[![Contribute](https://rawgit.com/slemeur/4a900bb68300a2643679/raw/1ad2c6d784c92fc21886c765bc6315a1f2ee690c/codenvy-contribute.svg)](https://codenvy.com/f?id=pnrf2vton1hn8b8c) | demo02 | MySQL
+[![Contribute](https://rawgit.com/slemeur/4a900bb68300a2643679/raw/1ad2c6d784c92fc21886c765bc6315a1f2ee690c/codenvy-contribute.svg)](https://codenvy.com/f?id=yo1keesrbnwzeuuc) | GuidedTour | Use of the guided tour
 
 
 
