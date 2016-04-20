@@ -1,3 +1,6 @@
+[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=g873lob5z6k703vn)
+
+
 [![Contribute](https://codenvy.com/factory/resources/codenvy-contribute.svg)](https://codenvy.com/f?id=euyeok50b3104deb)
 
 ### Available contribution workflows
