@@ -211,6 +211,8 @@ Here is a list of them:
 
 Factory | Name | Description
 --- | --- | ---
+[![Contribute stg](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://codenvy-stg.com/f?id=g873lob5z6k703vn)
+http://codenvy-stg.com/f?id=g873lob5z6k703vn
 [![Contribute](https://codenvy.com/factory/resources/codenvy-contribute.svg)](https://codenvy.com/f?id=02fq1vamaj0yftbj) | demo01 | demo01
 [![Contribute](https://codenvy.com/factory/resources/codenvy-contribute.svg)](https://codenvy.com/f?id=pnrf2vton1hn8b8c) | demo02 | MySQL
 [![Contribute](https://codenvy.com/factory/resources/codenvy-contribute.svg)](https://codenvy.com/f?id=yo1keesrbnwzeuuc) | GuidedTour | Use of the guided tour
